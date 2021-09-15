@@ -1,0 +1,5 @@
+s = list(input())
+first = s.pop(0)
+last = s.pop(-1)
+body = len(s)
+print(f"{first}{body}{last}")
