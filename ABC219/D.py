@@ -1,3 +1,6 @@
+"""
+ACならず...
+"""
 n = int(input())
 takoyaki, taiyaki = list(map(int, input().split()))
 
