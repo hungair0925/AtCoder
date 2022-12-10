@@ -1,3 +1,5 @@
+from collections import defaultdict
+
 def input_int():
     return int(input())
 
