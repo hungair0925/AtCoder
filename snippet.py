@@ -14,3 +14,6 @@ def multi_input_str():
 
 def multi_line_input_int(n):
     return [int(input()) for _ in range(n)]
+
+def multi_line_input_str(n):
+    return [input() for _ in range(n)]
